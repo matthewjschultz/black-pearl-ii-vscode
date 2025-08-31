@@ -1,0 +1,35 @@
+{
+  "name": "black-pearl-ii-original",
+  "displayName": "Black Pearl II Original",
+  "description": "The original Black Pearl II TextMate theme by Andrew Witte, faithfully ported to VS Code",
+  "version": "1.0.0",
+  "publisher": "local",
+  "author": {
+    "name": "Andrew Witte (original), ported to VS Code"
+  },
+  "license": "CC-BY-2.5",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "black pearl",
+    "textmate",
+    "original",
+    "high contrast",
+    "andrew witte"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Black Pearl II Original",
+        "uiTheme": "vs-dark",
+        "path": "./themes/black-pearl-ii-original.json"
+      }
+    ]
+  }
+}
